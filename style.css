@@ -1,0 +1,25 @@
+/* Hero */
+.jumbotron {
+    height: 400px;
+    background:url(/surf-1533278_1280.jpg) center/cover;
+  }
+
+
+/* Testimonies */
+/* Marges bloc témoignage */
+.container_margin {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+/* Harmonisation card photos */
+.card-img-top {
+  height: 350px;
+}
+
+/*
+h2 {
+  display: flex;
+  justify-content: center;
+}
+*/
